@@ -30,9 +30,15 @@ In pandas/core/nanops.py
 
 https://imgur.com/uaJ8so8
 
+All of our code is in pandas/tests/test_ours.py
+
 Function 2:
+sort_values
+In pandas/core/indexes/range.py
 
+12dafa80c5d0468834f912092b768d7920d0c714
 
+https://imgur.com/X7kI42y
 
 ## Coverage improvement
 
@@ -45,13 +51,13 @@ Test 1
 12dafa80c5d0468834f912092b768d7920d0c714
 
 https://imgur.com/uaJ8so8
-
-
 https://imgur.com/GIyjxi5
 
 The coverage improvement has increased from 40% to 100% as I wrote a test that has covered all branches. This is a maximal improvement.
 
 Test 2
+
+12dafa80c5d0468834f912092b768d7920d0c714
 
 https://imgur.com/X7kI42y
 https://imgur.com/gskP3cL
